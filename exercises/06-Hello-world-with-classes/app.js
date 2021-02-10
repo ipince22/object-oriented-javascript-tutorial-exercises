@@ -16,3 +16,6 @@ class Printer{
 }
 
 //Your code here
+var myPrinter = new Printer();
+var testResult = new Printer().printerTest();
+console.log(testResult);

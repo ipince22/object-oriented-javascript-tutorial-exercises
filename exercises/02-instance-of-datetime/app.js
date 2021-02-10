@@ -1,2 +1,3 @@
 let d = new Date();
-console.log("Today is "+(d.getMonth()+1)+"-"+d.getDate()+"-"+d.getFullYear());
+console.log(d);
+//console.log("Today is:"+(d.getMonth()+1)+"-"+d.getDate()+"-"+d.getFullYear());
